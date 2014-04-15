@@ -1,0 +1,26 @@
+{
+  "name": "dieharderer",
+  "version": "0.1.0",
+  "description": "A module that creates terrible sequel names from strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jwaxo/dieharderer.git"
+  },
+  "keywords": [
+    "die",
+    "hard",
+    "boogaloo",
+    "sequel"
+  ],
+  "author": "Jeff Wax <jeff@jeffwax.com> (http://www.jeffwax.com/)",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e87aec81f181578548616692e1ee8733c3a64a2a",
+  "bugs": {
+    "url": "https://github.com/Jwaxo/dieharderer/issues"
+  }
+}
