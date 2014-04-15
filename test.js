@@ -6,7 +6,7 @@ var comma_too = "I want to come, too."
   , name = "But what about Jeff?"
   , two_name = "Let's see Lethal Weapon."
   
-var find_sequel = require('./index.js');
+var find_sequel = require('./index.js')
   
 console.log(find_sequel(comma_too))
 console.log(find_sequel(no_comma_too))
