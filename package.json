@@ -1,6 +1,6 @@
 {
   "name": "dieharderer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A module that creates terrible sequel names from strings.",
   "main": "index.js",
   "scripts": {
